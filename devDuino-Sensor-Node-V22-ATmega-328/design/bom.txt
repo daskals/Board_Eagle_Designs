@@ -1,0 +1,31 @@
+Assembly variant: 
+
+Part  Value                     Device                    Package            Description                                
+BATT1 AAA-HOLDER                AAA-HOLDER                AAA-HOLDER                                                    
+BATT2 AAA-HOLDER                AAA-HOLDER                AAA-HOLDER                                                    
+C1    22pF                      C-EUC0805                 C0805              CAPACITOR, European symbol                 
+C2    22pF                      C-EUC0805                 C0805              CAPACITOR, European symbol                 
+C3    0.1uF                     C-EUC0805                 C0805              CAPACITOR, European symbol                 
+C5    0.1uF                     C-EUC0805                 C0805              CAPACITOR, European symbol                 
+C6    0.1uF                     C-EUC0805                 C0805              CAPACITOR, European symbol                 
+C7    0.1uF                     C-EUC0805                 C0805              CAPACITOR, European symbol                 
+C8    0.1uF                     C-EUC0805                 C0805              CAPACITOR, European symbol                 
+C9    50uF                      CPOL-EUSMCC               SMC_C              POLARIZED CAPACITOR, European symbol       
+C10   0.1uF                     C-EUC0805                 C0805              CAPACITOR, European symbol                 
+IC1   MCP9700                   MCP9700                   SOT23                                                         
+IC2   AT25DF512C-SSHN-B                           SO-08              Serial EEPROM 4K/ 8K , SPI bus             
+IC3   ATSHA204A                 ATSHA204A                 SOT23                                                         
+J1    ICSP                      M03X2NO_SILK              2X3-NS             2x3 .1" header.                            
+J3    I2C                       TWIG-4P-2.0               TWIG-4P-2.0                                                   
+J4    Digital                   TWIG-4P-2.0               TWIG-4P-2.0                                                   
+J5    Analog                    TWIG-4P-2.0               TWIG-4P-2.0                                                   
+LED                             LEDCHIPLED_0805           CHIPLED_0805       LED (RED)                                        
+PROG  J2                        FE05-1                    FE05-1             ---!!! Do not solder !!! ---                              
+Q1    16MHz                     CRYSTALCTS406             CTS406             CRYSTAL                                    
+R1    10k                       R-EU_R0805                R0805              RESISTOR, European symbol                  
+R4    330                       R-EU_R0805                R0805              RESISTOR, European symbol                  
+R5    10k                       R-EU_R0805                R0805              RESISTOR, European symbol                  
+R6    10k                       R-EU_R0805                R0805              RESISTOR, European symbol                  
+RF1   nRF24L01+                 NRF24L01                  2X4-2.54MM                                                    
+S1    SWITCH-MOMENTARY-2SIDE_EZ SWITCH-MOMENTARY-2SIDE_EZ TACTILE-PTH-SIDEEZ Momentary Switch (short pusher)
+U1    ATMEGA328PV-20AU          ATMEGA328_SMT             TQFP32-08          32-Pin Atmega328 part                      
